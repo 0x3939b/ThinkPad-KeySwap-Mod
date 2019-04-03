@@ -1,0 +1,2 @@
+# ThinkPad-KeySwap-Mod
+Windows用ThinkPadのPgUp/PgDnキーを旧機種の戻る/進むキーにキースワップするレジストリ変更スクリプト
